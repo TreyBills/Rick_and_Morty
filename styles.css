@@ -1,0 +1,12 @@
+h1{
+    font-family: "Comic Sans MS"; color: green; text-align: center; font-size: 60px; text-decoration-line: underline;
+}
+body {
+    background-color:chartreuse; border: groove;border-width: 20px; border-color: grey;
+  }
+  h2{
+      font-family: "Comic Sans MS"; color: green; font-size: 40px; text-decoration-line: underline;
+  }
+  table {
+    font-family: "Comic Sans MS"; border: 4mm ridge rgba(170, 50, 220, .6);
+  }
